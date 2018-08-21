@@ -18,7 +18,7 @@ public class LatihanSoal1 {
      */
     public static void hitung(int a, int b) {
         // TODO code application logic here
-        System.out.println("hasil: " + (a + b));
+        System.out.println("hasil :" + (a + b));
     }
     
     public static void main(String[] args){
